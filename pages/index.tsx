@@ -12,7 +12,7 @@ const Home = () => {
           />
         </figure>
         <p>
-          Get started by visiting the <Link href="/product"><code style={{ cursor: 'pointer' }} className="text-green">/product</code></Link> URL and editing{" "}
+          Get started by visiting the <Link href="/product" className="text-green"><p style={{ cursor: 'pointer' }}>/product</p></Link> URL and editing{" "}
           <code>client/pages/product.js</code>
         </p>
       </div>
